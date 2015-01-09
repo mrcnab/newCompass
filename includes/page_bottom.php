@@ -1,0 +1,1 @@
+<div id="footer">&copy; <?=date('Y')?> Designed &amp; Developed by  <a style="color:#ffffff; text-decoration:none; font-weight:bold;" href="http://www.webmarketingexperts.com.au/" target="_blank">Web Marketing Experts</a></div>
